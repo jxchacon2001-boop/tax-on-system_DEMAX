@@ -3,4 +3,4 @@ streamlit
 pandas
 reportlab
 openpyxl
-PIL
+Pillow
